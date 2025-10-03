@@ -1,0 +1,17 @@
+{
+  "name": "ge-dates",
+  "version": "1.0.0",
+  "description": "Una librería Node.js para manipulación y manejo de fechas personalizada.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ge",
+    "date",
+    "nodejs"
+  ],
+  "author": "Gerardo Estrella g.serrato41@outlook.com",
+  "license": "MIT",
+  "type": "commonjs"
+}
